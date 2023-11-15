@@ -5,7 +5,6 @@
 
 
 
-
 [![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg)](https://flutter.dev/) 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
@@ -24,8 +23,7 @@
 2. Fetch latest source code from master branch.
 
 ```
-git clone https://github.com/DStrio/attend-sejong-app
-
+git clone https://github.com/DStrio/attend-sejong-app.git
 ```
 
 3. Run the app with Android Studio or VS Code. Or the command line:
@@ -34,6 +32,7 @@ git clone https://github.com/DStrio/attend-sejong-app
 flutter pub get
 flutter run
 ```
+
 ## License
 
 Copyright @ 2023 DStrio 
@@ -50,10 +49,14 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-Distributed under the Apache 2.0 License. See [LICENSE](https://github.com/DStrio/attend-sejong-app/blob/main/LICENSE) for more information.
+## Contribute
+
+Contributing  Contributions are always welcome!  See `CONTRIBUTING.md` for ways to get started.  Please adhere to this project's `code of conduct`.
+
 ## Facing any issue?
 
 Have a look at some [common Issues](https://github.com/DStrio/attend-sejong-app/wiki/FAQ) that you might face. If your problem is not there, feel free to open an Issue :)
+
 ## What's new
 
 To read full changelog visit the [wiki page](https://github.com/DStrio/attend-sejong-app/wiki/Changelog)
