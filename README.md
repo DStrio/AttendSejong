@@ -7,7 +7,7 @@
 
 출석하세종(AttendSejong) is a mobile application designed to enhance the Jiphyeon campus(e-campus) experience by providing students with timely notifications for online classes and assignments.
 
-
+<!-- ## Download -->
 
 [![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg)](https://flutter.dev/) 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -20,6 +20,7 @@
 - Push notification of announcements for each lecture
 - Implement features that are not implemented in the Giphyun Campus app and site
 
+<!-- ## Screenshots -->
 
 ## Building from Source
 
