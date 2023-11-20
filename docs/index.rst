@@ -3,44 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to sungwoo's documentation!
-===================================
+Welcome to AttendSejong's Documentation!
+=========================================
 
-this is tesing, welcome to this docs.
-
-`Sejong Univ(Link text) <http://sejong.ac.kr/>`_
-
-
-.. _sejong university: http://www.sejong.ac.kr
-
-sejong link `sejong university`_
-
-.. .. _my-reference-label: https://google.com
-
-.. Section to cross-reference
-.. --------------------------
-
-.. This is the text of the section.
-.. It refers to the section itself, see :ref:`my-reference-label`.
-
-
-Lorem ipsum [#f1]_ dolor sit amet ... [#f2]_
-
-.. rubric:: Footnotes
-   
-.. [#f1] Text of the first footnote.
-.. [#f2] Text of the second footnote.
-
-Lorem ipsum [Ref]_ dolor sit amet.
-
-.. [Ref] Book or article reference, URL or whatever.
-
-.. figure:: _static/images/imgcat.jpg
-   :scale: 50 %
+.. figure:: https://user-images.githubusercontent.com/30895117/283034015-d2cfd231-fc74-404e-b0ab-71f81f077573.png
    :alt: map to buried treasure
 
-.. figure:: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FyzKwt%2FbtqT8IdqH2z%2Fgduzno1Pwsf8wETjdKyUwK%2Fimg.png
-   :alt: map to buried treasure
+.. _출석하세종(AttendSejong): https://github.com/DStrio/attend-sejong-app/
+
+`출석하세종(AttendSejong)`_ is a mobile application designed to enhance the Jiphyeon campus(e-campus) experience by providing students with timely notifications for online classes and assignments.
 
 .. toctree::
    :maxdepth: 2
@@ -53,10 +24,6 @@ Lorem ipsum [Ref]_ dolor sit amet.
    :maxdepth: 2
    :hidden: 
    :caption: Modules:
-
-   modules/model_i_o
-   modules/retrieval
-
 
 .. Indices and tables
 .. ==================

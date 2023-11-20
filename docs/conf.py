@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'sungwoo'
-copyright = '2023, zosungwoo'
-author = 'zosungwoo'
+project = 'Attend-Sejong'
+copyright = '2023, DStrio'
+author = 'DStrio'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
