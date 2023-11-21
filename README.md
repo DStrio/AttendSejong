@@ -38,6 +38,10 @@ flutter pub get
 flutter run
 ```
 
+## Documentation
+
+[Documentation](https://attendsejong.readthedocs.io/)
+
 ## License
 
 Copyright @ 2023 DStrio 
