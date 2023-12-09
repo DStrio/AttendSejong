@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
           title: Text('출석하세종'),
         ),
         body: Center(
-          child: Text('Hello, World!'),
+          child: Text('안녕하세요 출석하세종입니다'),
         ),
       ),
     );
