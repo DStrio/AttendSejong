@@ -1,4 +1,3 @@
-
 # 출석하세종(AttendSejong)
 
 <img width="100%" alt="image" src="https://github.com/DStrio/attend-sejong-app/assets/30895117/d2cfd231-fc74-404e-b0ab-71f81f077573">
@@ -20,7 +19,13 @@
 - Push notification of announcements for each lecture
 - Implement features that are not implemented in the Giphyun Campus app and site
 
-<!-- ## Screenshots -->
+## Screenshots
+
+![1_view_app](https://github.com/DStrio/attend-sejong-app/assets/30895117/fc69bb39-9625-4d15-8147-b6e2d13b3deb)
+![2_calander_app](https://github.com/DStrio/attend-sejong-app/assets/30895117/41c64e66-59f7-49ec-8827-5c1c5d246c25)
+![3_notification_app](https://github.com/DStrio/attend-sejong-app/assets/30895117/50c02533-a0bd-4b4d-ac6a-f888a6e66ef1)
+![4_register_app_1](https://github.com/DStrio/attend-sejong-app/assets/30895117/8dbd575c-514e-4a3e-ace0-f82424971464)
+
 
 ## Building from Source
 
