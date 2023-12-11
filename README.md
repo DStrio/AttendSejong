@@ -3,8 +3,8 @@
 <img width="100%" alt="image" src="https://github.com/DStrio/attend-sejong-app/assets/30895117/d2cfd231-fc74-404e-b0ab-71f81f077573">
 
 <br>
+출석하세종(AttendSejong) is an open-source project, specifically a mobile application designed to enhance the Jiphyeon campus(e-campus) experience. It aims to provide students with timely notifications for online classes and assignments.
 
-출석하세종(AttendSejong) is a mobile application designed to enhance the Jiphyeon campus(e-campus) experience by providing students with timely notifications for online classes and assignments.
 
 <!-- ## Download -->
 
